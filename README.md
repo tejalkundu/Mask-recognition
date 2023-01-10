@@ -1,1 +1,1 @@
-
+Attempt to make mask recognition system by using python libraries and machine learning model in Jupyter Notebook,also implementing basic skills learned for pre-processing of data science tools. The model can further be improvisied to recogonise different objects using a different train and testing dataset.
